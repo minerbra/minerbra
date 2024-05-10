@@ -15,7 +15,7 @@ Back-end: Node.js, Express.js <br>
 Database: MongoDB <br>
 Version Control: Git and GitHub <br>
 
-### Other Technologies and Fields I've Explored...
+### Technologies I've Experimented With...
 Data Science using Jyupiter Notebook, Python, Pandas, Dash Framework <br>
 Relational databases with SQL <br>
 Android Studio using Java <br>
