@@ -1,7 +1,7 @@
 ### Hi there 👋🏻 I'm Brady!
 
 🌱 I’m a Developer under development <br>
-👨🏻‍🎓 Bachelor's of Computer Science <br>
+👨🏻‍🎓 Bachelor's in Computer Science supplemented by self-learing through Udemy and YouTube and augmented by the indispensible skill of GoogleFu <br>
 🔭 I’m currently developing within the MEAN stack to sharpen my JavaScript skills <br>
 
 🚀 Looking for front-end, back-end and/or full-stack Software Engineer position <br>
