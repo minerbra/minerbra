@@ -15,6 +15,7 @@ Back-end: Node.js, Express.js <br>
 Database: MongoDB <br>
 Version Control: Git and GitHub <br>
 
-### Other Explored Technologies
-Android Studio (Java) <br>
-Jyupiter Notebooks for Data Science (Python, Pandas, Dash Framework)
+### Other Technologies and Fields Explored
+Data Science using Jyupiter Notebook, Python, Pandas, Dash Framework <br>
+Relational databases with SQL <br>
+Android Studio using Java <br>
