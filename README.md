@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Brady!
+### Hi there 👋🏻 I'm Brady!
 
 🌱 I’m a full-stack developer <br>
 🔭 I’m currently working on learning the MEAN stack <br>
