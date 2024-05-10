@@ -1,9 +1,10 @@
 ### Hi there 👋🏻 I'm Brady!
 
 🌱 I’m a Developer under development <br>
+👨🏻‍🎓 Bachelor's of Computer Science <br>
 🔭 I’m currently developing within the MEAN stack to sharpen my JavaScript skills <br>
 
-🚀 Looking for front-end, back-end or full-stack Software Engineer position <br>
+🚀 Looking for front-end, back-end and/or full-stack Software Engineer position <br>
 📫 How to reach me: bradyminer6471@gmail.com <br>
 
 ⚡ Fun fact: The dot used in lowercase "i" and "j" is called a tittle. <br>
