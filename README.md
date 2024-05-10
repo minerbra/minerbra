@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there 👋 I'm Brady!
 
-<!--
-**minerbra/minerbra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 I’m a full-stack developer
+🔭 I’m currently working on learning the MEAN stack
 
-Here are some ideas to get you started:
+🚀 Looking for front-end, back-end or full-stack Software Engineer position.
+📫 How to reach me: bradyminer6471@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚡ Fun fact: The dot used in lowercase "i" and "j" is called a tittle.
+
+# Learning Tech Stack
+Languages: JavaScript (HTML/CSS), Java, and Python
+Front-end: Angular, React, and Bootstrap
+Back-end: Node.js, Express.js
+Database: MySQL, MongoDB
+Version Control: Git and GitHub
