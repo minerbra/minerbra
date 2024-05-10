@@ -1,6 +1,6 @@
 ### Hi there 👋🏻 I'm Brady!
 
-🌱 I’m a Developer under development <br>
+🌱 Software Engineer learing to break it until I make it <br>
 👨🏻‍🎓 Bachelor's in Computer Science augmented by the indispensible skill of GoogleFu <br>
 🔭 I’m currently developing within the MEAN stack to sharpen my JavaScript skills <br>
 
