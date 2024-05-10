@@ -7,8 +7,6 @@
 🚀 Looking for front-end, back-end and/or full-stack Software Engineer position <br>
 📫 How to reach me: bradyminer6471@gmail.com <br>
 
-⚡ Fun fact: The dot used in lowercase "i" and "j" is called a tittle. <br>
-
 ### Current Tech Stack
 Language: JavaScript (HTML/CSS)<br>
 Front-end: Angular<br>
