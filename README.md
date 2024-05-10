@@ -1,6 +1,6 @@
 ### Hi there 👋🏻 I'm Brady!
 
-🌱 I’m a full-stack developer <br>
+🌱 I’m a Developer under development <br>
 🔭 I’m currently developing within the MEAN stack to sharpen my JavaScript skills <br>
 
 🚀 Looking for front-end, back-end or full-stack Software Engineer position <br>
