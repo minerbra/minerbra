@@ -9,8 +9,8 @@
 ⚡ Fun fact: The dot used in lowercase "i" and "j" is called a tittle. <br>
 
 # Learning Tech Stack
-Languages: JavaScript (HTML/CSS), Java, and Python
-Front-end: Angular, React, and Bootstrap
-Back-end: Node.js, Express.js
-Database: MySQL, MongoDB
-Version Control: Git and GitHub
+Languages: JavaScript (HTML/CSS), Java, and Python <br>
+Front-end: Angular, React, and Bootstrap <br>
+Back-end: Node.js, Express.js <br>
+Database: MySQL, MongoDB <br>
+Version Control: Git and GitHub <br>
