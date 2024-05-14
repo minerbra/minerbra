@@ -1,7 +1,6 @@
 ### Hi there 👋🏻 I'm Brady!
 
-🌱 Software Engineer learning to break it until I make it <br>
-👨🏻‍🎓 Bachelor's in Computer Science augmented by the indispensible skill of GoogleFu <br>
+🌱 Aspiring Full-Stack Softwar Engineer <br>
 👨🏻‍💻 Currently developing a MEAN stack to sharpen my JavaScript skills <br>
 
 🚀 Looking for front-end, back-end and/or full-stack Software Engineer position <br>
