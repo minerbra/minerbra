@@ -1,6 +1,6 @@
 ### Hi there 👋🏻 I'm Brady!
 
-🌱 Aspiring Full-Stack Softwar Engineer <br>
+🌱 Aspiring Full-Stack Software Engineer <br>
 👨🏻‍💻 Currently developing a MEAN stack to sharpen my JavaScript skills <br>
 
 🚀 Looking for front-end, back-end and/or full-stack Software Engineer position <br>
