@@ -1,7 +1,7 @@
 ### Hi there 👋🏻 I'm Brady!
 
 🌱 Aspiring Full-Stack Software Engineer <br>
-👨🏻‍💻 Currently developing a MEAN stack to sharpen my JavaScript skills <br>
+👨🏻‍💻 Currently developing a web application to manage tickets and inventory for an annual crawfish boil event using the MEAN stack.<br>
 
 🚀 Looking for front-end, back-end and/or full-stack Software Engineer position <br>
 📫 How to reach me: bradyminer6471@gmail.com <br>
