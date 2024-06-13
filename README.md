@@ -28,7 +28,7 @@
 🧠 I enjoy writing code and learning new technologies.<br/><br/>
 👨🏻‍💻 Expanding my full stack skill set. Frontend is something I'm learning, backend technologies are what I know best.<br/><br/>
 📬 Open to software engineer opportunities: bradyminer6471@gmail.com <br/><br/>
-💡 Fun Fact: During the Meiji Restoration, Japan abolished the samurai caste in 1867–1868. The first fax machine, a printing telegraph, was invented in 1843, and Abraham Lincoln was famously assassinated at Ford's Theatre in 1865. In hindsight, there was a 23-year window of opportunity for a samurai to fax Abe Lincoln.
+💡 Fun Fact: During the Meiji Restoration, Japan abolished the samurai caste in 1867–1868. The first fax machine, a printing telegraph, was invented in 1843, and Abraham Lincoln was famously assassinated at Ford's Theatre in 1865. In hindsight, there was a 22-year window of opportunity for a samurai to fax Abe Lincoln.
    </samp>
 </p>
 
