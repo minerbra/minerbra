@@ -1,6 +1,6 @@
 <!-- Intro  -->
 <h3 align="center">
-        <samp> Hey There!, I'm
+        <samp> Hey There! 👋🏻 I'm
                 <b>Brady</b>
         </samp>
 </h3>
@@ -19,8 +19,8 @@
  
 <p>
   <samp>
-🌱 Enjoy writing code and learning new technologies<br/><br/>
-👨🏻‍💻 Currently building a full-stack web application for an annual crawfish boil event <br/><br/>
+🌱 I enjoy writing code and learning new technologies.<br/><br/>
+👨🏻‍💻 Expanding my skill set in all areas. Frontend is something I'm learning, backend technologies are what I know best.<br/><br/>
 💡 Fun Fact: During the Meiji Restoration, Japan abolished the samurai caste in 1867–1868. The first fax machine, a printing telegraph, was invented in 1843, and Abraham Lincoln was famously assassinated at Ford's Theatre in 1865. In hindsight, there was a 23-year window of opportunity for a samurai to fax Abe Lincoln.
    </samp>
 </p>
@@ -28,7 +28,7 @@
 <br/>
 
 <!-- Technologies Section -->
-## Most Used
+## Backend Development
 
 ![Java](https://img.shields.io/badge/Java-D0120D?style=for-the-badge&labelColor=D0120D&logo=Oracle&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
@@ -40,7 +40,7 @@
 ![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 
-## Currently Exploring
+## Frontend Development
 
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
