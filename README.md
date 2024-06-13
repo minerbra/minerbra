@@ -8,19 +8,25 @@
 <p align="center"> 
   <samp>
     <br>
-    「 I'm a full stack web application developer from <b>Colorado 🏔️</b> 」
+    「 Developing from <b>Colorado 🏔️</b> 」
     <br>
     <br>
   </samp>
+        <a href="https://linkedin.com/in/brady-miner-062ab0132" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="minerbra"/>
+        </a>
 </p>
+
+
 
 <!-- About Section -->
  ## About Me
  
 <p>
   <samp>
-🌱 I enjoy writing code and learning new technologies.<br/><br/>
-👨🏻‍💻 Expanding my skill set in all areas. Frontend is something I'm learning, backend technologies are what I know best.<br/><br/>
+🧠 I enjoy writing code and learning new technologies.<br/><br/>
+👨🏻‍💻 Expanding my full stack skill set. Frontend is something I'm learning, backend technologies are what I know best.<br/><br/>
+📬 Open to software engineer opportunities: bradyminer6471@gmail.com <br/><br/>
 💡 Fun Fact: During the Meiji Restoration, Japan abolished the samurai caste in 1867–1868. The first fax machine, a printing telegraph, was invented in 1843, and Abraham Lincoln was famously assassinated at Ford's Theatre in 1865. In hindsight, there was a 23-year window of opportunity for a samurai to fax Abe Lincoln.
    </samp>
 </p>
