@@ -26,7 +26,7 @@
 <p>
   <samp>
 🧠 I enjoy writing code and learning new technologies.<br/><br/>
-👨🏻‍💻 Expanding my full stack skill set. Frontend is something I'm learning, backend technologies are what I know best.<br/><br/>
+👨🏻‍💻 Expanding my full stack skill set. React is something I'm learning, backend technologies are what I'm most familiar with.<br/><br/>
 📬 Open to software engineer opportunities: bradyminer6471@gmail.com <br/><br/>
 💡 Fun Fact: During the Meiji Restoration, Japan abolished the samurai caste in 1867–1868. The first fax machine, a printing telegraph, was invented in 1843, and Abraham Lincoln was famously assassinated at Ford's Theatre in 1865. In hindsight, there was a 22-year window of opportunity for a samurai to fax Abe Lincoln.
    </samp>
@@ -41,8 +41,6 @@
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 ![SQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 
 ## Frontend Development
 
@@ -51,6 +49,11 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+## Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 
 <br/>
 
