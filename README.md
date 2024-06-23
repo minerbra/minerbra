@@ -26,7 +26,7 @@
 <p>
   <samp>
 🧠 I enjoy writing code and learning new technologies.<br/><br/>
-👨🏻‍💻 Expanding my skilliset. React is something I'm learning, backend technologies are what I'm most familiar with.<br/><br/>
+👨🏻‍💻 Expanding my skill set. React is something I'm learning, backend technologies are what I'm most familiar with.<br/><br/>
 📬 Open to opportunities: bradyminer.cs@gmail.com <br/><br/>
 💡 Fun Fact: During the Meiji Restoration, Japan abolished the samurai caste in 1867–1868. The first fax machine, a printing telegraph, was invented in 1843, and Abraham Lincoln was famously assassinated at Ford's Theatre in 1865. In hindsight, there was a 22-year window of opportunity for a samurai to fax Abe Lincoln.
    </samp>
