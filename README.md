@@ -26,8 +26,6 @@
    </samp>
 </p>
 
-<br/>
-
 <!-- Technologies Section -->
 ## Backend Development
 
