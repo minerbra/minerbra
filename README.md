@@ -21,7 +21,7 @@
 <p>
   <samp>
 🧠 I enjoy writing code and learning new technologies.<br/><br/>
-👨🏻‍💻 Expanding my skill set. React is something I'm learning, backend technologies are what I'm most familiar with.<br/><br/>
+👨🏻‍💻 Currently learning React.<br/><br/>
 📬 Open to opportunities: bradyminer.cs@gmail.com <br/><br/>
    </samp>
 </p>
