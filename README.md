@@ -16,36 +16,34 @@
 
 
 <!-- About Section -->
- ## About Me
+ # About Me
  
 <p>
   <samp>
-🧠 I enjoy writing code and learning new technologies.<br/><br/>
-👨🏻‍💻 Currently learning React.<br/><br/>
-📬 Open to opportunities: bradyminer.cs@gmail.com <br/><br/>
+🎣 FLY FISHER
+🛰️ ROTARIAN
+🏀 NUGGETS FAN 🏆<br/><br/>
+👨🏻‍💻 Currently developing in Javascript. learning Node.js, Express.js & React<br/><br/>
    </samp>
 </p>
 
 <!-- Technologies Section -->
-## Backend Development
+# Tech Stack
 
-![Java](https://img.shields.io/badge/Java-D0120D?style=for-the-badge&labelColor=D0120D&logo=Oracle&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![SQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-<br/><br/>
 ![Nodejs](https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
+![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-## Frontend Development
-
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
-![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-## Tools
+# Other Technologies
+![Java](https://img.shields.io/badge/Java-D0120D?style=for-the-badge&labelColor=D0120D&logo=Oracle&logoColor=white)
+![SQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<br/><br/>
+
+# Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
