@@ -23,7 +23,7 @@
 🎣 FLY FISHER
 🛰️ ROTARIAN
 🏀 NUGGETS FAN 🏆<br/><br/>
-👨🏻‍💻 Currently developing in Javascript. learning Node.js, Express.js & React<br/><br/>
+👨🏻‍💻 Currently developing in Javascript. Diving into Node.js, Express.js & React<br/><br/>
    </samp>
 </p>
 
