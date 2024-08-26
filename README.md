@@ -39,6 +39,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 # Other Languages & Technologies
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=yellow)
 ![Java](https://img.shields.io/badge/Java-D0120D?style=for-the-badge&labelColor=D0120D&logo=Oracle&logoColor=white)
 ![SQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
@@ -49,6 +50,7 @@
 # Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VisualStudio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 
