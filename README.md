@@ -22,7 +22,7 @@
   <samp>
 🎣 FLY FISHER
 🛰️ ROTARIAN
-🏀 NUGGETS FAN 🏆<br/><br/>
+🏀 DENVER NUGGETS FAN 🏆<br/><br/>
 👨🏻‍💻 Currently developing in Javascript. Diving into Node.js, Express.js & React<br/><br/>
    </samp>
 </p>
@@ -38,16 +38,19 @@
 ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-# Other Technologies
+# Other Languages & Technologies
 ![Java](https://img.shields.io/badge/Java-D0120D?style=for-the-badge&labelColor=D0120D&logo=Oracle&logoColor=white)
 ![SQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&labelColor=00599C&logo=Cplusplus&logoColor=white)
+![OpenGL](https://img.shields.io/badge/openGL-5586A4?style=for-the-badge&labelColor=5586A4&logo=OpenGL&logoColor=white)
 <br/><br/>
 
 # Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
-![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![VSCode](https://img.shields.io/badge/VisualStudio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 
 <br/>
 
